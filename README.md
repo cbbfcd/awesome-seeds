@@ -91,6 +91,7 @@
 
 * [hscroll](https://github.com/hopechans/hscroll) 基于原生JS很简洁的自定义滚动条组件
 * [arya-jarvis](https://github.com/nicejade/arya-jarvis) 一款基于 node.js 的命令行工具，旨在为开发人员节省更多时间和精力
+* [didyoumean3](https://github.com/cbbfcd/didyoumean3) 基于最短编辑距离算法的文字提示工具
 
 ## Java
 
